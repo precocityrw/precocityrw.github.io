@@ -1,0 +1,26 @@
+﻿[
+      {
+            "GithubOrg": "Axway-API-Management",
+            "GithubRepo": "Executing-loopback-requests-on-a-listener",
+            "Url": "https://github.com/Axway-API-Management/Executing-loopback-requests-on-a-listener",
+            "Language": "JavaScript",
+            "License": {
+                  "Type": "Apache 2.0",
+                  "Url": "https://github.com/Axway-API-Management/Executing-loopback-requests-on-a-listener/license.txt"
+            },
+            "Contributor": "Axway"
+      },
+      {
+            "GithubOrg": "Axway-API-Management",
+            "GithubRepo": "Policy-Loop-custom-filter",
+            "Name": "Policy-Loop-custom-filter",
+            "Url": "https://github.com/Axway-API-Management/Policy-Loop-custom-filter",
+            "Description": "Policy-Loop-custom-filter",
+            "Language": "JavaScript",
+            "License": {
+                  "Type": "MIT",
+                  "Url": "https://github.com/Axway-API-Management/Policy-Loop-custom-filter"
+            },
+            "Contributor": "Axway"
+      }
+]
